@@ -12,7 +12,7 @@ from config import cfg, get_output_dir, get_output_tb_dir, cfg_from_list
 from DataLayer import DataLayer
 from train import train_net
 from ResNet import ResNetv2
-from NasNet import NasNet
+from NasNet_v2 import NasNet
 import pprint
 
 
